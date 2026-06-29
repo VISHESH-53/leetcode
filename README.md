@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/VISHESH-53/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VISHESH-53/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VISHESH-53/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/VISHESH-53/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VISHESH-53/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+## Binary Search
+|  |
+| ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/VISHESH-53/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
