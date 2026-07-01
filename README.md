@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/VISHESH-53/leetcode/tree/master/0088-merge-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/VISHESH-53/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VISHESH-53/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VISHESH-53/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/VISHESH-53/leetcode/tree/master/0088-merge-sorted-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VISHESH-53/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## String
 |  |
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VISHESH-53/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/VISHESH-53/leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
