@@ -1,6 +1,8 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
-
-        cleaned = "".join(filter(str.isalnum, s)).lower()
-        
-        return cleaned == cleaned[::-1]
+        s="".join(filter(str.isalnum,s)).lower()
+        n=len(s)
+        for i in range(0,n//2):
+            if s[i]!=s[n-i-1]:
+                return False
+        return True
