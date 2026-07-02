@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VISHESH-53/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/VISHESH-53/leetcode/tree/master/0088-merge-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/VISHESH-53/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0977-squares-of-a-sorted-array](https://github.com/VISHESH-53/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VISHESH-53/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VISHESH-53/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/VISHESH-53/leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/VISHESH-53/leetcode/tree/master/0088-merge-sorted-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/VISHESH-53/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VISHESH-53/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## String
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/VISHESH-53/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/VISHESH-53/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/VISHESH-53/leetcode/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/VISHESH-53/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Breadth-First Search
 |  |
 | ------- |
