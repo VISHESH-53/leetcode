@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VISHESH-53/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VISHESH-53/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/VISHESH-53/leetcode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/VISHESH-53/leetcode/tree/master/0189-rotate-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/VISHESH-53/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0977-squares-of-a-sorted-array](https://github.com/VISHESH-53/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VISHESH-53/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/VISHESH-53/leetcode/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/VISHESH-53/leetcode/tree/master/0263-ugly-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/VISHESH-53/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Sliding Window
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VISHESH-53/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/VISHESH-53/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/VISHESH-53/leetcode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/VISHESH-53/leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/VISHESH-53/leetcode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/VISHESH-53/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/VISHESH-53/leetcode/tree/master/0977-squares-of-a-sorted-array) |
