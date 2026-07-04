@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/VISHESH-53/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VISHESH-53/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VISHESH-53/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2390-removing-stars-from-a-string](https://github.com/VISHESH-53/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -132,4 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VISHESH-53/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/VISHESH-53/leetcode/tree/master/2390-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/VISHESH-53/leetcode/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
