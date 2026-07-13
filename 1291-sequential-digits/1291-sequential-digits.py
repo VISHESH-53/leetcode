@@ -1,20 +1,17 @@
 class Solution:
     def sequentialDigits(self, low: int, high: int) -> List[int]:
-        ans = []
-        digits = "123456789"
+        l = []
+        x = len(str(low))
 
-        length = len(str(low))
+        while x <= len(str(high)):
+            n = int("123456789"[:x])
+            j = int("1" * x)
 
-        while length <= len(str(high)):
-            num = int(digits[:length])
-            jump = int("1" * length)
+            for i in range(10 - x):
+                if low <= n <= high:
+                    l.append(n)
+                n += j
 
-            while num <= high and len(str(num)) == length:
-                if num >= low and str(num) in digits:
-                    ans.append(num)
+            x += 1
 
-                num += jump
-
-            length += 1
-
-        return ans
+        return l
