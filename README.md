@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/VISHESH-53/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/VISHESH-53/leetcode/tree/master/0486-predict-the-winner) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/VISHESH-53/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0877-stone-game](https://github.com/VISHESH-53/leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/VISHESH-53/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/VISHESH-53/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/VISHESH-53/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/VISHESH-53/leetcode/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/VISHESH-53/leetcode/tree/master/0263-ugly-number) |
 | [0486-predict-the-winner](https://github.com/VISHESH-53/leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/VISHESH-53/leetcode/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/VISHESH-53/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VISHESH-53/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VISHESH-53/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/VISHESH-53/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VISHESH-53/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/VISHESH-53/leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/VISHESH-53/leetcode/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/VISHESH-53/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VISHESH-53/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/VISHESH-53/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -276,4 +279,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/VISHESH-53/leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/VISHESH-53/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
