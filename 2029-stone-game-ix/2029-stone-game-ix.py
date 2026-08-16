@@ -1,11 +1,16 @@
 class Solution:
     def stoneGameIX(self, stones: List[int]) -> bool:
-        cnt = {0: 0, 1: 0, 2: 0}
-        
+        c0 = c1 = c2 = 0
         for x in stones:
-            cnt[x % 3] += 1
+            rem = x % 3
+            if rem == 0:
+                 c0 += 1
+            elif rem == 1:
+                 c1 += 1
+            else:
+                 c2 += 1
             
-        if cnt[0] % 2 == 0:
-            return min(cnt[1], cnt[2]) > 0
+        if c0 % 2 == 0:
+            return min(c1, c2) > 0
             
-        return abs(cnt[1] - cnt[2]) > 2
+        return abs(c1 - c2) > 2
