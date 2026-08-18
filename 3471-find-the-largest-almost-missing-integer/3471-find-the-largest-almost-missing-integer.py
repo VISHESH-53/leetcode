@@ -1,11 +1,10 @@
 class Solution:
     def largestInteger(self, nums: List[int], k: int) -> int:
-        if len(nums)==k:
-            return max(nums)
+
         count=dict.fromkeys(nums, 0)
         l=[]
         for i in range(len(nums)-k+1):
-            x=nums[i:i+k]
+            x=set(nums[i:i+k])
             for j in x:
                 count[j]+=1
         for i in count:
