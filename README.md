@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/VISHESH-53/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/VISHESH-53/leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/VISHESH-53/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VISHESH-53/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/VISHESH-53/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VISHESH-53/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/VISHESH-53/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/VISHESH-53/leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/VISHESH-53/leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/VISHESH-53/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/VISHESH-53/leetcode/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/VISHESH-53/leetcode/tree/master/0520-detect-capital) |
@@ -348,4 +350,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/VISHESH-53/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/VISHESH-53/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
