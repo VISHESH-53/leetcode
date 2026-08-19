@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VISHESH-53/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/VISHESH-53/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VISHESH-53/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/VISHESH-53/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/VISHESH-53/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/VISHESH-53/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VISHESH-53/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/VISHESH-53/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/VISHESH-53/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VISHESH-53/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/VISHESH-53/leetcode/tree/master/0035-search-insert-position) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/VISHESH-53/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [3312-sorted-gcd-pair-queries](https://github.com/VISHESH-53/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/VISHESH-53/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
