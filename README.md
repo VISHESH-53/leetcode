@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/VISHESH-53/leetcode/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/VISHESH-53/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/VISHESH-53/leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/VISHESH-53/leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VISHESH-53/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/VISHESH-53/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VISHESH-53/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/VISHESH-53/leetcode/tree/master/0078-subsets) |
 | [1386-cinema-seat-allocation](https://github.com/VISHESH-53/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/VISHESH-53/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/VISHESH-53/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -395,4 +397,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/VISHESH-53/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/VISHESH-53/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
