@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/VISHESH-53/leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/VISHESH-53/leetcode/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/VISHESH-53/leetcode/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/VISHESH-53/leetcode/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/VISHESH-53/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/VISHESH-53/leetcode/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/VISHESH-53/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/VISHESH-53/leetcode/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/VISHESH-53/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/VISHESH-53/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/VISHESH-53/leetcode/tree/master/1140-stone-game-ii) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/VISHESH-53/leetcode/tree/master/0292-nim-game) |
 | [1140-stone-game-ii](https://github.com/VISHESH-53/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/VISHESH-53/leetcode/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/VISHESH-53/leetcode/tree/master/2029-stone-game-ix) |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Nim Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/VISHESH-53/leetcode/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/VISHESH-53/leetcode/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/VISHESH-53/leetcode/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
@@ -406,4 +410,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/VISHESH-53/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/VISHESH-53/leetcode/tree/master/0090-subsets-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/VISHESH-53/leetcode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/VISHESH-53/leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
