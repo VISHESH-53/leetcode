@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VISHESH-53/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/VISHESH-53/leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/VISHESH-53/leetcode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/VISHESH-53/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/VISHESH-53/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/VISHESH-53/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/VISHESH-53/leetcode/tree/master/0078-subsets) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/VISHESH-53/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/VISHESH-53/leetcode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/VISHESH-53/leetcode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/VISHESH-53/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/VISHESH-53/leetcode/tree/master/0169-majority-element) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/VISHESH-53/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/VISHESH-53/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/VISHESH-53/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/VISHESH-53/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/VISHESH-53/leetcode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/VISHESH-53/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/VISHESH-53/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/VISHESH-53/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/VISHESH-53/leetcode/tree/master/0169-majority-element) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/VISHESH-53/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/VISHESH-53/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/VISHESH-53/leetcode/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/VISHESH-53/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/VISHESH-53/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/VISHESH-53/leetcode/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/VISHESH-53/leetcode/tree/master/0520-detect-capital) |
