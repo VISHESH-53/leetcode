@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/VISHESH-53/leetcode/tree/master/0075-sort-colors) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/VISHESH-53/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Manacher
 |  |
@@ -418,4 +419,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/VISHESH-53/leetcode/tree/master/0292-nim-game) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/VISHESH-53/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
