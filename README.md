@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/VISHESH-53/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/VISHESH-53/leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/VISHESH-53/leetcode/tree/master/0049-group-anagrams) |
+| [0115-distinct-subsequences](https://github.com/VISHESH-53/leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/VISHESH-53/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/VISHESH-53/leetcode/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/VISHESH-53/leetcode/tree/master/0520-detect-capital) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/VISHESH-53/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/VISHESH-53/leetcode/tree/master/0053-maximum-subarray) |
+| [0115-distinct-subsequences](https://github.com/VISHESH-53/leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VISHESH-53/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/VISHESH-53/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/VISHESH-53/leetcode/tree/master/0877-stone-game) |
