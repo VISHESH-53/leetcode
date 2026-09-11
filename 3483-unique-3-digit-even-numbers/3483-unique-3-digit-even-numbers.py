@@ -1,10 +1,30 @@
 class Solution:
     def totalNumbers(self, digits: List[int]) -> int:
-        f=Counter(digits)
-        res=0
-        for n in range(100,1000,2):
-            i,r=divmod(n,100)
-            j,k=divmod(r,10)
-            res += f[i] > 0 and f[j] > (i == j) and f[k] > (i == k) + (j == k)
-        return res
-        
+        freq = [0] * 10
+
+        for d in digits:
+            freq[d] += 1
+
+        ans = 0
+
+        for a in range(1, 10):         
+            if freq[a] == 0:
+                continue
+
+            freq[a] -= 1
+
+            for b in range(10):        
+                if freq[b] == 0:
+                    continue
+
+                freq[b] -= 1
+
+                for c in range(0, 10, 2): 
+                    if freq[c] > 0:
+                        ans += 1
+
+                freq[b] += 1
+
+            freq[a] += 1
+
+        return ans
