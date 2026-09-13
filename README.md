@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/VISHESH-53/leetcode/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/VISHESH-53/leetcode/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/VISHESH-53/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0796-rotate-string](https://github.com/VISHESH-53/leetcode/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/VISHESH-53/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VISHESH-53/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/VISHESH-53/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -494,4 +495,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/VISHESH-53/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/VISHESH-53/leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
