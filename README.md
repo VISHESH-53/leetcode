@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/VISHESH-53/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0835-image-overlap](https://github.com/VISHESH-53/leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/VISHESH-53/leetcode/tree/master/0877-stone-game) |
+| [0896-monotonic-array](https://github.com/VISHESH-53/leetcode/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/VISHESH-53/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1140-stone-game-ii](https://github.com/VISHESH-53/leetcode/tree/master/1140-stone-game-ii) |
 | [1288-remove-covered-intervals](https://github.com/VISHESH-53/leetcode/tree/master/1288-remove-covered-intervals) |
