@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/VISHESH-53/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/VISHESH-53/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VISHESH-53/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VISHESH-53/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/VISHESH-53/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/VISHESH-53/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VISHESH-53/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/VISHESH-53/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VISHESH-53/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/VISHESH-53/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VISHESH-53/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/VISHESH-53/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VISHESH-53/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VISHESH-53/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/VISHESH-53/leetcode/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/VISHESH-53/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/VISHESH-53/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VISHESH-53/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/VISHESH-53/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/VISHESH-53/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/VISHESH-53/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VISHESH-53/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VISHESH-53/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VISHESH-53/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/VISHESH-53/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Two Pointers
@@ -346,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/VISHESH-53/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/VISHESH-53/leetcode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/VISHESH-53/leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VISHESH-53/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/VISHESH-53/leetcode/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/VISHESH-53/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/VISHESH-53/leetcode/tree/master/1872-stone-game-viii) |
