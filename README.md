@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2119-a-number-after-a-double-reversal](https://github.com/VISHESH-53/leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/VISHESH-53/leetcode/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/VISHESH-53/leetcode/tree/master/2396-strictly-palindromic-number) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/VISHESH-53/leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VISHESH-53/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/VISHESH-53/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/VISHESH-53/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -595,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/VISHESH-53/leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/VISHESH-53/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/VISHESH-53/leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Bracket Sequences
 |  |
 | ------- |
