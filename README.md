@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2600-k-items-with-the-maximum-sum](https://github.com/VISHESH-53/leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2651-calculate-delayed-arrival-time](https://github.com/VISHESH-53/leetcode/tree/master/2651-calculate-delayed-arrival-time) |
 | [2769-find-the-maximum-achievable-number](https://github.com/VISHESH-53/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
+| [2806-account-balance-after-rounded-purchase](https://github.com/VISHESH-53/leetcode/tree/master/2806-account-balance-after-rounded-purchase) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VISHESH-53/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/VISHESH-53/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/VISHESH-53/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
