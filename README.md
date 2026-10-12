@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/VISHESH-53/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/VISHESH-53/leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2549-count-distinct-numbers-on-board](https://github.com/VISHESH-53/leetcode/tree/master/2549-count-distinct-numbers-on-board) |
+| [2582-pass-the-pillow](https://github.com/VISHESH-53/leetcode/tree/master/2582-pass-the-pillow) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/VISHESH-53/leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2651-calculate-delayed-arrival-time](https://github.com/VISHESH-53/leetcode/tree/master/2651-calculate-delayed-arrival-time) |
 | [2769-find-the-maximum-achievable-number](https://github.com/VISHESH-53/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/VISHESH-53/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2390-removing-stars-from-a-string](https://github.com/VISHESH-53/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2549-count-distinct-numbers-on-board](https://github.com/VISHESH-53/leetcode/tree/master/2549-count-distinct-numbers-on-board) |
+| [2582-pass-the-pillow](https://github.com/VISHESH-53/leetcode/tree/master/2582-pass-the-pillow) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/VISHESH-53/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/VISHESH-53/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VISHESH-53/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
