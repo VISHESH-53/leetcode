@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/VISHESH-53/leetcode/tree/master/2029-stone-game-ix) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/VISHESH-53/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/VISHESH-53/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/VISHESH-53/leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VISHESH-53/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VISHESH-53/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VISHESH-53/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/VISHESH-53/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/VISHESH-53/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/VISHESH-53/leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/VISHESH-53/leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2651-calculate-delayed-arrival-time](https://github.com/VISHESH-53/leetcode/tree/master/2651-calculate-delayed-arrival-time) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VISHESH-53/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/VISHESH-53/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
