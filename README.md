@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/VISHESH-53/leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/VISHESH-53/leetcode/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/VISHESH-53/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1025-divisor-game](https://github.com/VISHESH-53/leetcode/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/VISHESH-53/leetcode/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/VISHESH-53/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/VISHESH-53/leetcode/tree/master/1510-stone-game-iv) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/VISHESH-53/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/VISHESH-53/leetcode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/VISHESH-53/leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1025-divisor-game](https://github.com/VISHESH-53/leetcode/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/VISHESH-53/leetcode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/VISHESH-53/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VISHESH-53/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/VISHESH-53/leetcode/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/VISHESH-53/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/VISHESH-53/leetcode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/VISHESH-53/leetcode/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/VISHESH-53/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/VISHESH-53/leetcode/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/VISHESH-53/leetcode/tree/master/1872-stone-game-viii) |
@@ -582,11 +585,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/VISHESH-53/leetcode/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/VISHESH-53/leetcode/tree/master/1025-divisor-game) |
 | [2396-strictly-palindromic-number](https://github.com/VISHESH-53/leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Impartial Game
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/VISHESH-53/leetcode/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/VISHESH-53/leetcode/tree/master/1025-divisor-game) |
 ## Bubble Sort
 |  |
 | ------- |
