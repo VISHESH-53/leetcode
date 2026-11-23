@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/VISHESH-53/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1301-number-of-paths-with-max-score](https://github.com/VISHESH-53/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/VISHESH-53/leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/VISHESH-53/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VISHESH-53/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/VISHESH-53/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/VISHESH-53/leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/VISHESH-53/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/VISHESH-53/leetcode/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/VISHESH-53/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/VISHESH-53/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/VISHESH-53/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VISHESH-53/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/VISHESH-53/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1025-divisor-game](https://github.com/VISHESH-53/leetcode/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/VISHESH-53/leetcode/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/VISHESH-53/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/VISHESH-53/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/VISHESH-53/leetcode/tree/master/1510-stone-game-iv) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/VISHESH-53/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -792,4 +795,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/VISHESH-53/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/VISHESH-53/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/VISHESH-53/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
